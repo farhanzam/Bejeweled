@@ -1,8 +1,6 @@
 # Bejeweled
 My recreation of the popular game Bejeweled
 
-My recreation of the popular game Bejeweled
-
 Run Display_logic.py to run this game.
 
 The script.py and game_mechanics.py files define the logic of the game board and player's controls, while Display_logic.py and Display_mechanics.py use Pygame to define the appearance and user interface through which the user interacts with the program.
